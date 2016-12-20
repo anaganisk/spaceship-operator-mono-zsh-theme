@@ -1,4 +1,13 @@
 ### Spaceship Oh My ZSH theme with support for operator mono font.
 A fork of the original [spaceship theme](https://github.com/denysdovhan/spaceship-zsh-theme)
 
-![screenshot]("https://raw.githubusercontent.com/anaganisk/spaceship-operator-mono-zsh-theme/screenshot.png")
+![screenshot]("https://raw.githubusercontent.com/anaganisk/spaceship-operator-mono-zsh-theme/master/screenshot.png")
+
+## Installation
+
+```env bash
+cd $ZSH_CUSTOM/themes
+wget https://raw.githubusercontent.com/anaganisk/spaceship-operator-mono-zsh-theme/master/spaceship-operator-mono.zsh-theme
+```
+### License
+MIT
