@@ -8,6 +8,8 @@ A fork of the original [spaceship theme](https://github.com/denysdovhan/spaceshi
 ```env bash
 cd $ZSH_CUSTOM/themes
 wget https://raw.githubusercontent.com/anaganisk/spaceship-operator-mono-zsh-theme/master/spaceship-operator-mono.zsh-theme
+
+# set ZSH_THEME="spaceship-operator-mono" in your .zshrc file
 ```
 ### License
 MIT
